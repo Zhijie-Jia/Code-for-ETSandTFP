@@ -1,7 +1,7 @@
-# CEEEA2.0 Model
-Please refer to the PDF file to see the introduction of the model
+# Data and Code for 碳排放权交易试点与全要素生产率———兼论波特假说、技术溢出与污染天堂
+# Data and Code for Carbon Emissions Trading Pilots and Total Factor Productivity: A Study on the Porter Hypothesis, Technological Spillovers, and Pollution Haven
 
 Homepage: https://zhijie-jia.github.io/
 
 Reference:
-Jia, Z., Lin, B., 2022. CEEEA2.0 model: A dynamic CGE model for energy-environment-economy analysis with available data and code. Energy Economics 112, 106117. https://doi.org/10.1016/j.eneco.2022.106117
+贾智杰, 林伯强, 温师燕, 2023. 碳排放权交易试点与全要素生产率——兼论波特假说、技术溢出与污染天堂. 经济学动态 03.
